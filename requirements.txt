@@ -4,4 +4,3 @@ earthengine-api
 geemap
 numpy
 pandas
-Pillow
